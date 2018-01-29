@@ -2,7 +2,7 @@
 zurb foundation minimal skeleton
 
 
-git clone https://github.com/leotop/foundation-minimal-6.git
+git clone https://github.com/leotop/foundation-6-minimal-template.git
 
 git add .
 
@@ -14,6 +14,8 @@ git push
 git commit -a
 
 = = = = = = = = =
+
+## Changelog 
 
 upgrade to 6.4.2
 
